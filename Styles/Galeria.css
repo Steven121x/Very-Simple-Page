@@ -1,0 +1,62 @@
+body{
+    background-image: linear-gradient(
+  80deg,
+  hsl(260deg 100% 8%) 0%,
+  hsl(277deg 89% 8%) 31%,
+  hsl(292deg 74% 8%) 52%,
+  hsl(308deg 61% 9%) 67%,
+  hsl(321deg 52% 10%) 77%,
+  hsl(332deg 44% 11%) 87%,
+  hsl(342deg 37% 12%) 100%
+);
+}
+
+
+.Barra-Container-Menu{
+    text-align: center;
+    object-position: center;
+    background-color: aqua;
+    padding: 30px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.position-Galeria{
+    text-align: center;
+    object-position: center;
+    color:  white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#text-logo{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 100;
+}
+
+#Home-Container-Button{
+  margin-right: 55px;
+}
+
+#Imagenes-Container-Button{
+    margin-right: 45px;
+}
+
+#About-Container-Button{
+    margin-right: 10px;
+}
+
+#Home-Container-Button:hover{
+    color: blue;
+    cursor: pointer;
+}
+  
+#Imagenes-Container-Button:hover{
+    color: blue;
+    cursor: pointer;
+}
+  
+#About-Container-Button:hover{
+    color: blue;
+    cursor: pointer;
+}
