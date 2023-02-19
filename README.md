@@ -14,3 +14,6 @@
 
 🔧1 - Editor De Codigo por preferencia Visual studio code | 2 - Extension Live Server si usas vs code | 3 - Listo🔧
 
+![image](https://user-images.githubusercontent.com/96802942/219947891-a39a71a7-4529-460e-bd23-d92c97291459.png)
+
+
